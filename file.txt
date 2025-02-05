@@ -1,2 +1,2 @@
-Just some text.
+Just some text. More words added on the first line.
 This line was added through GitHub web.
