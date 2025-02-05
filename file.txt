@@ -1,2 +1,3 @@
 I am adding some text before the original text and now I added some more text via vim. Just some text. More words added on the first line. Once again adding some text via GitHub web, but on line 1.
 This line was added through GitHub web.
+The cat, dog, and fox all jumped over the fence.
